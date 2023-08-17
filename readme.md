@@ -1,4 +1,4 @@
-# Modul 5 - Grundläggande om Datastrukturer
+# Modul 3 - Grundläggande om Datastrukturer
 
 ## Repobeskrivning
 
